@@ -1,0 +1,4 @@
+2019-09-30 09:22:22,268 [Thread-9] ERROR org.eclipse.jgit.util.FS - xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+
+2019-09-30 09:22:22,296 [Thread-10] ERROR org.eclipse.jgit.util.FS - xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+
