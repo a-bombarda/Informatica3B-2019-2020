@@ -1,0 +1,14 @@
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class CoinBoxTest {
+
+	@Test
+	public void testCostruttore() {
+		CoinBox c = new CoinBox();
+		assertTrue(c.display()==1);
+		assertEquals(0,c.display());
+	}
+
+}
